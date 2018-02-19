@@ -4,7 +4,7 @@ import { NgForm } from '@angular/forms';
 
 
 @Component({
-  selector: 'contact-form',
+  selector: 'app-contact-form',
   templateUrl: './contact-form.component.html',
   styleUrls: ['./contact-form.component.css']
 })
